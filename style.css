@@ -1,0 +1,14 @@
+*{
+    margin:0;
+}
+
+h1{
+    text-align: center;
+    color:white;
+    line-height: 70px;
+}
+
+header{
+    height: 70px;
+    background: green;
+}
